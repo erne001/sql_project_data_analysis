@@ -75,6 +75,13 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
+Here is a breakdown of the top 10 Data Analyst jobs of 2023:
+- 
+-
+-
+-
+
+graph or table goes here
 
 ### 2. Skills for Those Top‑Paying Jobs
 
@@ -116,6 +123,13 @@ INNER JOIN
 ORDER BY
     t.salary_year_avg DESC;
 ```
+Here is a breakdown of the most demanded skills of top Data Analyst jobs of 2023:
+- 
+-
+-
+-
+
+graph or table goes here 
 
 ### 3. Most In‑Demand Skills for Data Analysts
 
@@ -141,7 +155,13 @@ ORDER BY
     count_of_skills DESC
 LIMIT 5;
 ```
+Here is a breakdown of the top 5 most demanded skills for Data Analyst jobs of 2023:
+- 
+-
+-
+-
 
+graph or table goes here
 
 ### 4. Highest‑Paying Skills in Remote Data Analyst Roles
 
@@ -169,7 +189,13 @@ ORDER BY
     salary_avg DESC
 LIMIT 5;
 ```
+Here is a breakdown of the top 5 highest paid skills for Data Analyst jobs of 2023:
+- 
+-
+-
+-
 
+graph or table goes here
 
 ### 5. “Optimal” Skills (Balancing Demand & Pay)
 
@@ -231,6 +257,13 @@ ORDER BY
     m.count_of_skills DESC
 LIMIT 25;
 ```
+Here is a breakdown of the top 25 most demanded and highest paying skills for Data Analyst jobs of 2023:
+- 
+-
+-
+-
+
+graph or table goes here
 ---
 
 ### 🎯 Conclusions
