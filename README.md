@@ -128,7 +128,7 @@ ORDER BY
 - **BI tools matter**: Tableau and Snowflake are critical
 - **Cloud & libraries**: AWS (cloud) and Pandas/Numpy (Python) reflect modern workflows ☁️
 
-![Demanded skills in top jobs](assets\image2.png)  
+![Demanded skills in top jobs](assets/image2.png)  
 *This Clustered Bar was made using Excel*
 
 ### 3. Most In‑Demand Skills for Data Analysts
@@ -159,7 +159,7 @@ LIMIT 5;
 - **Fundamental Trio**: Excel + SQL + Python are non-negotiable for analysts 📌
 - **Visualization Focus**: The next most demanded skills are visualization tools 🎨
 
-![top 5 most demanded skills](assets\image3.png)  
+![top 5 most demanded skills](assets/image3.png)  
 *This Clustered Column was made using Excel*
 
 ### 4. Highest‑Paying Skills in Remote Data Analyst Roles
@@ -192,7 +192,7 @@ LIMIT 5;
 - **Niche tools**: Skills like "Distarobot" and "Couchbase" top salary charts 🚀
 - **Big Tech influence**: Watson (IBM) and PySpark (Spark) reflect enterprise demand 💻 
 
-![top 5 best paid skills](assets\image4.png)   
+![top 5 best paid skills](assets/image4.png)   
 *This Clustered Column was made using Excel*
 
 ### 5. “Optimal” Skills (Balancing Demand & Pay)
