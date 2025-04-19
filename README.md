@@ -80,7 +80,7 @@ LIMIT 10;
 - **Leadership dominates**: 4 of the top 10 roles are director-level or principal analysts 💼
 - **Specialization pays**: "AV Performance Analysis" and "ERM" command premium salaries 🚀
 
-![Top Paying Roles](assets\image1.png)  
+![Top Paying Roles](assets/image1.png)  
 *This Clustered Bar was made using Excel*
 
 ### 2. Skills for Those Top‑Paying Jobs
