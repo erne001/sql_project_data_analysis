@@ -75,13 +75,13 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
-Here is a breakdown of the top 10 Data Analyst jobs of 2023:
-- 
--
--
--
 
-graph or table goes here
+### Key Insights of the top 10 Data Analyst jobs of 2023
+- **Leadership dominates**: 4 of the top 10 roles are director-level or principal analysts 💼
+- **Specialization pays**: "AV Performance Analysis" and "ERM" command premium salaries 🚀
+
+![Top Paying Roles](assests\image1.png)  
+*This Clustered Bar was made using Excel*
 
 ### 2. Skills for Those Top‑Paying Jobs
 
@@ -123,13 +123,13 @@ INNER JOIN
 ORDER BY
     t.salary_year_avg DESC;
 ```
-Here is a breakdown of the most demanded skills of top Data Analyst jobs of 2023:
-- 
--
--
--
+### Key Insights of the most demanded skills of top Data Analyst jobs of 2023:
+- **SQL & Python rule**: Found in 100% of top jobs (based on your scale: 9/9)
+- **BI tools matter**: Tableau and Snowflake are critical
+- **Cloud & libraries**: AWS (cloud) and Pandas/Numpy (Python) reflect modern workflows ☁️
 
-graph or table goes here 
+![Demanded skills in top jobs](assests\image2.png)  
+*This Clustered Bar was made using Excel*
 
 ### 3. Most In‑Demand Skills for Data Analysts
 
@@ -155,13 +155,12 @@ ORDER BY
     count_of_skills DESC
 LIMIT 5;
 ```
-Here is a breakdown of the top 5 most demanded skills for Data Analyst jobs of 2023:
-- 
--
--
--
+### Key Insights of the top 5 most demanded skills for Data Analyst jobs of 2023:
+- **Fundamental Trio**: Excel + SQL + Python are non-negotiable for analysts 📌
+- **Visualization Focus**: The next most demanded skills are visualization tools 🎨
 
-graph or table goes here
+![top 5 most demanded skills](assests\image3.png)  
+*This Clustered Column was made using Excel*
 
 ### 4. Highest‑Paying Skills in Remote Data Analyst Roles
 
@@ -189,13 +188,12 @@ ORDER BY
     salary_avg DESC
 LIMIT 5;
 ```
-Here is a breakdown of the top 5 highest paid skills for Data Analyst jobs of 2023:
-- 
--
--
--
+### Key Insights of the top 5 highest paid skills for Data Analyst jobs of 2023:
+- **Niche tools**: Skills like "Distarobot" and "Couchbase" top salary charts 🚀
+- **Big Tech influence**: Watson (IBM) and PySpark (Spark) reflect enterprise demand 💻 
 
-graph or table goes here
+![top 5 best paid skills](assests\image4.png)   
+*This Clustered Column was made using Excel*
 
 ### 5. “Optimal” Skills (Balancing Demand & Pay)
 
@@ -257,13 +255,43 @@ ORDER BY
     m.count_of_skills DESC
 LIMIT 25;
 ```
-Here is a breakdown of the top 25 most demanded and highest paying skills for Data Analyst jobs of 2023:
-- 
--
--
--
 
-graph or table goes here
+### Key Insights of the top 25 most demanded and highest paying skills for Data Analyst jobs of 2023:
+
+- **Highest Paying**: Go ($115k) 🚀  
+- **Most Popular**: Python (236 counts) 🐍  
+- **Enterprise Tools**: SAS, Oracle, and Azure command premium salaries 💼  
+- **BI Dominance**: Tableau has high adoption (230 counts) but mid-range pay 📈
+
+| Rank | Skill        | 📊 Count | 💰 Avg Salary | Visual        |
+|------|--------------|---------:|--------------:|---------------|
+| 1    | **Go**       | 27      | $115,320     | ██████████    |
+| 2    | Confluence   | 11      | $114,210     | █████████▊    |
+| 3    | Hadoop       | 22      | $113,193     | █████████▌    |
+| 4    | Snowflake    | 37      | $112,948     | █████████▍    |
+| 5    | Azure        | 34      | $111,225     | █████████     |
+| 6    | BigQuery     | 13      | $109,654     | ████████▊     |
+| 7    | AWS          | 32      | $108,317     | ████████▌     |
+| 8    | Java         | 17      | $106,906     | ████████▏     |
+| 9    | SSIS         | 12      | $106,683     | ████████      |
+| 10   | Jira         | 20      | $104,918     | ███████▊      |
+| 11   | Oracle       | 37      | $104,534     | ███████▌      |
+| 12   | Looker       | 49      | $103,795     | ███████▍      |
+| 13   | NoSQL        | 13      | $101,414     | ███████▏      |
+| 14   | **Python**   | 236     | $101,397     | ███████       |
+| 15   | R            | 148     | $100,499     | ██████▊       |
+| 16   | Redshift     | 16      | $99,936      | ██████▌       |
+| 17   | Qlik         | 13      | $99,631      | ██████▍       |
+| 18   | Tableau      | 230     | $99,288      | ██████▏       |
+| 19   | SSRS         | 14      | $99,171      | ██████        |
+| 20   | Spark        | 13      | $99,077      | █████▊        |
+| 21   | C++          | 11      | $98,958      | █████▌        |
+| 22   | SAS          | 126     | $98,902      | █████▍        |
+| 23   | SQL Server   | 35      | $97,786      | █████▏        |
+| 24   | JavaScript   | 20      | $97,587      | █████         |               
+
+*ChatGPT generated this table from my query results*
+
 ---
 
 ### 🎯 Conclusions
